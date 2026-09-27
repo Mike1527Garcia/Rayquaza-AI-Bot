@@ -1,0 +1,10 @@
+# Ignore temporary Arduino files
+*.bin
+*.elf
+*.hex
+*.zip
+*.log
+.DS_Store
+
+# Ignore local config
+secrets.h
